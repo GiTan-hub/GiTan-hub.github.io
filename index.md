@@ -1,12 +1,24 @@
 # **Welcome to  Tyler's GitHub Pages**
-## *Owned by Madisson Tyler Tan*. 
->You can use the [editor on GitHub](https://github.com/GiTan-hub/GiTan-hub.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+   ## *Owned by Madisson Tyler Tan*. 
+ >## Tyler's CODM Tutorial
+###1. **Gunsmith Loadout** 
+- Perk
+- Gunmsmith Attacments
+- Tactical epuipments
+- Scorestreaks
+- Operator skill
+- Arsenals
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###2. **Best Gun to Use (*Meta Guns*)**
+- Sniper
+- Assault Rifle
+- Light Machine Gun (LMG)
+- Sub-Machine Gun (SMG)
+- Shotgun
+- Marksman
+- Pistol
+- Launcher
+- Melee
 
 ```markdown
 Syntax highlighted code block
